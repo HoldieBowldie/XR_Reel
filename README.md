@@ -1,2 +1,2 @@
-# XR_Reel
-VR/XR Project Videos
+# VR/XR Reel
+A series of Virtual/Extended Reality Projects done using Unity and the Meta Quest 3.
